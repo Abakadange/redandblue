@@ -1,0 +1,40 @@
+body{
+    background-color: red;
+    padding: 0;
+    margin: 0;
+}
+
+.blue{
+    background-color: blue;
+    display: flex;
+    height: 15vh;
+    padding: 100px;
+    justify-content: center;
+}
+
+.red{
+    display: flex;
+    padding: 100px;
+    justify-content: center;
+    
+
+}
+
+
+.first button{
+    padding: 20px 90px;
+    display: flex;
+    background: transparent;
+    margin: 20px 50px;
+    border: 1px solid white;
+}
+.second button{
+    padding: 20px 90px;
+        display: flex;
+        background: rgb(160, 16, 16);
+        margin: 20px 50px;
+        border: 0px solid;
+}
+button{
+    color: white;
+}
